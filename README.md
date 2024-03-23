@@ -40,6 +40,7 @@ It includes the following model types:
 - Demonstrated expertise in dynamic model creation by implementing a cutting-edge solution capable of adapting in real-time, showcasing a remarkable improvement of 15% in detection accuracy compared to static models.
 - Leveraged ML techniques to uncover nuanced patterns in streaming data, resulting in a dynamic model with a 20% increase in sensitivity to emerging threats
 
+For detailed explanation of the dataset analysis, learning methodologies and results, please refer to [Detailed Analysis and Implementation](Detailed-Report.pdf)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
